@@ -12,7 +12,7 @@ To get this repo running:
 
 * Install Python 3.  You can find instructions [here](https://wiki.python.org/moin/BeginnersGuide/Download).
 * Create a [virtual environment](https://docs.python.org/3/library/venv.html).
-* Clone this repo with `git clone git@github.com:dataquestio/analytics_pipeline.git`
+* Clone this repo with `git clone git@github.com:frankburg/analytics_pipeline.git`
 * Get into the folder with `cd analytics_pipeline`
 * Install the requirements with `pip install -r requirements.txt`
 
